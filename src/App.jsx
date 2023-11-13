@@ -33,7 +33,7 @@ function App() {
   return (
     <div className="text-center">
       <h1 className="text-4xl font-bold mb-4">Coming Soon</h1>
-      <p className="text-lg mb-8">We're working hard to bring you something awesome. Stay tuned!</p>
+      <p className="text-lg mb-8">We are working hard to bring you something awesome. Stay tuned!</p>
 
       {/* Countdown Timer */}
       <div className="text-2xl mb-8">
