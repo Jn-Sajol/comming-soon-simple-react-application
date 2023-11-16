@@ -1,3 +1,3 @@
-# React + Vite
+# simple comming soon project with React + Vite
 
 
